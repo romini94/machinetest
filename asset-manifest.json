@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/deepnetproject/static/css/main.f7db2b7d.css",
-    "main.js": "/deepnetproject/static/js/main.41167a2b.js",
-    "index.html": "/deepnetproject/index.html",
-    "main.f7db2b7d.css.map": "/deepnetproject/static/css/main.f7db2b7d.css.map",
-    "main.41167a2b.js.map": "/deepnetproject/static/js/main.41167a2b.js.map"
+    "main.css": "/Mymachine/static/css/main.fcd1becb.css",
+    "main.js": "/Mymachine/static/js/main.41167a2b.js",
+    "index.html": "/Mymachine/index.html",
+    "main.fcd1becb.css.map": "/Mymachine/static/css/main.fcd1becb.css.map",
+    "main.41167a2b.js.map": "/Mymachine/static/js/main.41167a2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7db2b7d.css",
+    "static/css/main.fcd1becb.css",
     "static/js/main.41167a2b.js"
   ]
 }
