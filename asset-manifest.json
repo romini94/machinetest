@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/machinetest/static/css/main.fcd1becb.css",
-    "main.js": "/machinetest/static/js/main.41167a2b.js",
-    "index.html": "/machinetest/index.html",
-    "main.fcd1becb.css.map": "/machinetest/static/css/main.fcd1becb.css.map",
-    "main.41167a2b.js.map": "/machinetest/static/js/main.41167a2b.js.map"
+    "main.css": "/finaldeep/static/css/main.fcd1becb.css",
+    "main.js": "/finaldeep/static/js/main.41167a2b.js",
+    "index.html": "/finaldeep/index.html",
+    "main.fcd1becb.css.map": "/finaldeep/static/css/main.fcd1becb.css.map",
+    "main.41167a2b.js.map": "/finaldeep/static/js/main.41167a2b.js.map"
   },
   "entrypoints": [
     "static/css/main.fcd1becb.css",
