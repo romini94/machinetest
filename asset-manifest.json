@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Mymachine/static/css/main.fcd1becb.css",
-    "main.js": "/Mymachine/static/js/main.41167a2b.js",
-    "index.html": "/Mymachine/index.html",
-    "main.fcd1becb.css.map": "/Mymachine/static/css/main.fcd1becb.css.map",
-    "main.41167a2b.js.map": "/Mymachine/static/js/main.41167a2b.js.map"
+    "main.css": "/mymachine/static/css/main.fcd1becb.css",
+    "main.js": "/mymachine/static/js/main.41167a2b.js",
+    "index.html": "/mymachine/index.html",
+    "main.fcd1becb.css.map": "/mymachine/static/css/main.fcd1becb.css.map",
+    "main.41167a2b.js.map": "/mymachine/static/js/main.41167a2b.js.map"
   },
   "entrypoints": [
     "static/css/main.fcd1becb.css",
