@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deepnetproject/static/css/main.f7db2b7d.css",
+    "main.js": "/deepnetproject/static/js/main.41167a2b.js",
+    "index.html": "/deepnetproject/index.html",
+    "main.f7db2b7d.css.map": "/deepnetproject/static/css/main.f7db2b7d.css.map",
+    "main.41167a2b.js.map": "/deepnetproject/static/js/main.41167a2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7db2b7d.css",
+    "static/js/main.41167a2b.js"
+  ]
+}
